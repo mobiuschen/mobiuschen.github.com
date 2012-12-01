@@ -31,6 +31,8 @@ Evernote的logo来自一句谚语：
 
 两年多，写点心得分享作为一个总结吧。
 
+<br/>
+
 ##为什么选择Evernote
 
 Evernote的Killer feature：
@@ -38,6 +40,8 @@ Evernote的Killer feature：
   *  全平台
   *  图像文字识别
   *  API
+
+<br/>
   
 ##Evernote简介，入门
 
@@ -61,6 +65,7 @@ Evernote使用时，主要有下面几个动作。
   * 备忘
   * 记录
 
+<br/>
 
 ##文章编辑
 
@@ -74,6 +79,8 @@ Evernote使用时，主要有下面几个动作。
 
 这个功能在Evernote社区呼声应该算是蛮高的，但是在[这个帖子](http://discussion.evernote.com/topic/1931-request-markdown-language/page__st__40)里，Evernote传教士GrumpyMonkeys说明了Evernote为什么不会支持Markdown，并提供了另一个有此功能的第三方工具链接。由这一点可以看出，Evernote的定位确实着眼于大众、广泛，而非专业。
 
+<br/>
+  
 ##个人Wiki
 
 对于我来说，知识管理的重要手段就是个人Wiki。它帮助梳理、安置各种信息，并且非常便于以后检索。
@@ -86,6 +93,8 @@ Evernote每篇文章都可以创建一个「Note Link」，即文章的本地链
 
 ![alt text](/image/ba2e0029b3d916055893079ca291c27f.jpeg)
 
+<br/>
+  
 ##GTD
 
 [GTD（Get Things Done）](http://zh.wikipedia.org/wiki/GTD)是这两年很流行的概念，衍生出很多相关软件。但对于我来说，Evernote就可以满足最基本的GTD使用。
@@ -101,19 +110,26 @@ Evernote每篇文章都可以创建一个「Note Link」，即文章的本地链
   * 下一个件要买的东西
   * 下一个/批要写的文章主题
 
+<br/>
+  
 ##备忘
 
 我的另一个箩筐是「杂记」，主要记录装脑子里闪过的火花、偶然听到看到的一些消息，来不及整理的，全都往这里面扔，等待后续整理归档。当然，有的想法也无法整理也无法归档，也就只能永远作为火花存在里面。
 
 「杂记」主要以日期作为标题分割，属于增量编辑。不会删除里面的东西。
 
+<br/>
+  
 ##记录
 
 每天都会记录当天干了什么事，偶尔做点小小的回顾，即Event Log。
 
 每个月会集结成一篇「Event Log 20XX.X」的Note，然后全部放到一本「记录与回顾」的Notebook里。
 
+<br/>
+  
 ##分享
+
 ##国际版和阉割版
 
 ##Evernote不足
