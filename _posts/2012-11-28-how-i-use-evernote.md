@@ -15,7 +15,7 @@ tags: [Evernote, 心得, 方案]
 
 {% include JB/setup %}
 
-![alt text](/image/evernote-logo.png)
+![alt text](/image/evernote-logo-256.png)
 
 Evernote的logo来自一句谚语：
 
