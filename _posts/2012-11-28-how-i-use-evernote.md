@@ -37,9 +37,9 @@ Evernote的logo来自一句谚语：
 
 Evernote的Killer feature：
 
-  *  全平台
-  *  图像文字识别
-  *  API
+  *  全平台  
+  *  图像文字识别  
+  *  API  
 
 <br/>
   
