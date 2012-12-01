@@ -1,3 +1,13 @@
+---
+layout: post
+title: Evernote使用方案
+tagline:
+description:
+category: 
+tags: []
+---
+{% include JB/setup %}
+
 ###Evernote简介，入门###
 
 Evernote的logo来自一句谚语：
