@@ -37,11 +37,11 @@ Evernote的logo来自一句谚语：
 
 Evernote的Killer feature：
 
-  *  全平台  
-  
-  *  图像文字识别  
-  
-  *  API  
+*  All-Platform
+
+*  Search in PDFs
+
+*  API
 
 <br/>
   
@@ -51,31 +51,31 @@ Evernote的Killer feature：
 
 Evernote使用时，主要有下面几个动作。
 
-  1. 收集  
+1. Collect 收集  
   
-  2. 分类整理  
+2. Classify 分类整理  
   
-  3. 总结思考  
+3. Summary 总结思考  
   
-  4. 输出  
+4. Outpug 输出  
   
-  5. 实践  
+5. Practise 实践
   
-  6. 分享  
+6. Share 分享  
 
 对于我来说，6是用得比较少的。平时使用Evernote，主要用于以下几个方面：
 
-  * 文章编辑  
+* Writing Articles 文章编辑
   
-  * 个人Wiki  
+* Personal Wiki 个人Wiki
   
-  * 工程笔记  
+* Project Notes 工程笔记  
   
-  * GTD  
+* GTD
   
-  * 备忘  
+* Memo 备忘  
   
-  * 记录  
+* Event Log记录  
 
 <br/>
 
@@ -115,17 +115,17 @@ Evernote每篇文章都可以创建一个「Note Link」，即文章的本地链
 
 「What's Next」下面有更多的子标题：
 
-  * 下一部要看的电影  
+* Next Movie 下一部要看的电影  
   
-  * 下一本要看的书  
+* Next Book 下一本要看的书  
   
-  * 下一个要去旅游的地方  
+* Next Travel 下一个要去旅游的地方  
   
-  * 下一个碎片时间可以做的事情  
+* Next Little Thing 下一个碎片时间可以做的事情  
   
-  * 下一个件要买的东西  
+* Next Shopping 下一个件要买的东西  
   
-  * 下一个/批要写的文章主题  
+* Next Article 下一个/批要写的文章主题  
 
 <br/>
   
