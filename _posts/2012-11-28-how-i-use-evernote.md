@@ -1,17 +1,5 @@
 ---
 layout: post
-<<<<<<< HEAD
-=======
-title: Evernote使用方案
-tagline:
-description:
-category: 
-tags: []
----
-{% include JB/setup %}
-
-###Evernote简介，入门###
->>>>>>> 9c4763a0c4e99609880a17c1ef58e483c01ba65a
 
 title: Evernote使用心得
 
