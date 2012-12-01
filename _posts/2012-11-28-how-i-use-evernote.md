@@ -1,12 +1,3 @@
----
-layout: post
-title: Evernote使用方案
-tagline:
-description:
-category: 
-tags: []
----
-{% include JB/setup %}
 ###Evernote简介，入门###
 
 Evernote的logo来自一句谚语：
@@ -87,9 +78,9 @@ Evernote有个「Copy Note Link」功能，可以获取一个文章的本地链�
 
 不求全面，更多时候是资料整理归档的地方。对于更深层次的思考，主要以文章形式出现。
 
-![alt text](/assets/376e941e0e973b810dd544e1e2cc0ee0.jpeg)
+![alt text](/image/376e941e0e973b810dd544e1e2cc0ee0.jpeg)
 
-![alt text](/assets/ba2e0029b3d916055893079ca291c27f.jpeg)
+![alt text](/image/ba2e0029b3d916055893079ca291c27f.jpeg)
 
 
 
@@ -152,5 +143,4 @@ Evernote有个「Copy Note Link」功能，可以获取一个文章的本地链�
   * 怎样用Evernote来管理事务
 
   * "我的Evernote技巧"系列
-
 
